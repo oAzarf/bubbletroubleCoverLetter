@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: fed581971dfe1b24fa0b0293f9fe8a86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2471181932523515956
+    second: PC Computer - Jardinains - Bricks_0
+  - first:
+      213: 347436552777752470
+    second: PC Computer - Jardinains - Bricks_1
+  - first:
+      213: 4138965411610300879
+    second: PC Computer - Jardinains - Bricks_2
+  - first:
+      213: -7681569126916116926
+    second: PC Computer - Jardinains - Bricks_3
+  - first:
+      213: -6331324404513044984
+    second: PC Computer - Jardinains - Bricks_4
+  - first:
+      213: -1462537635913109888
+    second: PC Computer - Jardinains - Bricks_5
+  - first:
+      213: 6496483380592587767
+    second: PC Computer - Jardinains - Bricks_6
+  - first:
+      213: 4874407359304123491
+    second: PC Computer - Jardinains - Bricks_7
+  - first:
+      213: 8999818498444413253
+    second: PC Computer - Jardinains - Bricks_8
+  - first:
+      213: 1685632357729288757
+    second: PC Computer - Jardinains - Bricks_9
+  - first:
+      213: 4993533824991027272
+    second: PC Computer - Jardinains - Bricks_10
+  - first:
+      213: 4182574613741529662
+    second: PC Computer - Jardinains - Bricks_11
+  - first:
+      213: 2417156924408891877
+    second: PC Computer - Jardinains - Bricks_12
+  - first:
+      213: -6120751666685991776
+    second: PC Computer - Jardinains - Bricks_13
+  - first:
+      213: -7636387302609633065
+    second: PC Computer - Jardinains - Bricks_14
+  - first:
+      213: -8571446418087691117
+    second: PC Computer - Jardinains - Bricks_15
+  - first:
+      213: 2897600054165633652
+    second: PC Computer - Jardinains - Bricks_16
+  - first:
+      213: 2094588627406347106
+    second: PC Computer - Jardinains - Bricks_17
+  - first:
+      213: -8548626364185700513
+    second: PC Computer - Jardinains - Bricks_18
+  - first:
+      213: -5200668528684738139
+    second: PC Computer - Jardinains - Bricks_19
+  - first:
+      213: -799891716544578149
+    second: PC Computer - Jardinains - Bricks_20
+  - first:
+      213: 3410401280768754514
+    second: PC Computer - Jardinains - Bricks_21
+  - first:
+      213: -6873407231635063809
+    second: PC Computer - Jardinains - Bricks_22
+  - first:
+      213: -3906765014095899250
+    second: PC Computer - Jardinains - Bricks_23
+  - first:
+      213: 108550575636007073
+    second: PC Computer - Jardinains - Bricks_24
+  - first:
+      213: -3703045537001424662
+    second: PC Computer - Jardinains - Bricks_25
+  - first:
+      213: -6089211217842111670
+    second: PC Computer - Jardinains - Bricks_26
+  - first:
+      213: 9096243647844177375
+    second: PC Computer - Jardinains - Bricks_27
+  - first:
+      213: 3541026903943895577
+    second: PC Computer - Jardinains - Bricks_28
+  - first:
+      213: -432158605090367562
+    second: PC Computer - Jardinains - Bricks_29
+  - first:
+      213: 1468125403088592670
+    second: PC Computer - Jardinains - Bricks_30
+  - first:
+      213: 1114909272387333770
+    second: PC Computer - Jardinains - Bricks_31
+  - first:
+      213: 2785973807385090117
+    second: PC Computer - Jardinains - Bricks_32
+  - first:
+      213: -2152934506015346349
+    second: PC Computer - Jardinains - Bricks_33
+  - first:
+      213: -7044607779445477957
+    second: PC Computer - Jardinains - Bricks_34
+  - first:
+      213: -2258539144440469032
+    second: PC Computer - Jardinains - Bricks_35
+  - first:
+      213: -7977781286245885451
+    second: PC Computer - Jardinains - Bricks_36
+  - first:
+      213: -2434127503324091588
+    second: PC Computer - Jardinains - Bricks_37
+  - first:
+      213: 3348114754363460343
+    second: PC Computer - Jardinains - Bricks_38
+  - first:
+      213: -7534639511826863440
+    second: PC Computer - Jardinains - Bricks_39
+  - first:
+      213: 8352435022249898914
+    second: PC Computer - Jardinains - Bricks_40
+  - first:
+      213: -8477304468041219451
+    second: PC Computer - Jardinains - Bricks_41
+  - first:
+      213: 4447362336074779741
+    second: PC Computer - Jardinains - Bricks_42
+  - first:
+      213: 1309142789905974372
+    second: PC Computer - Jardinains - Bricks_43
+  - first:
+      213: 5845110378941063780
+    second: PC Computer - Jardinains - Bricks_44
+  - first:
+      213: -7375008888341219554
+    second: PC Computer - Jardinains - Bricks_45
+  - first:
+      213: -7976599352131413586
+    second: PC Computer - Jardinains - Bricks_46
+  - first:
+      213: -3117499239051021500
+    second: PC Computer - Jardinains - Bricks_47
+  - first:
+      213: 7360772106389043263
+    second: PC Computer - Jardinains - Bricks_48
+  - first:
+      213: 8906425267018680077
+    second: PC Computer - Jardinains - Bricks_49
+  - first:
+      213: 3755039830507531609
+    second: PC Computer - Jardinains - Bricks_50
+  - first:
+      213: 3483036566196870828
+    second: PC Computer - Jardinains - Bricks_51
+  - first:
+      213: 3566958307171320729
+    second: PC Computer - Jardinains - Bricks_52
+  - first:
+      213: -707418865977646033
+    second: PC Computer - Jardinains - Bricks_53
+  - first:
+      213: -2016775864860566060
+    second: PC Computer - Jardinains - Bricks_54
+  - first:
+      213: 6608896609786053442
+    second: PC Computer - Jardinains - Bricks_55
+  - first:
+      213: -291162811636217376
+    second: PC Computer - Jardinains - Bricks_56
+  - first:
+      213: 8306309991938302099
+    second: PC Computer - Jardinains - Bricks_57
+  - first:
+      213: 7666874507783624946
+    second: PC Computer - Jardinains - Bricks_58
+  - first:
+      213: 2675343205409343455
+    second: PC Computer - Jardinains - Bricks_59
+  - first:
+      213: -5425672368703525621
+    second: PC Computer - Jardinains - Bricks_60
+  - first:
+      213: 7441970419672986038
+    second: PC Computer - Jardinains - Bricks_61
+  - first:
+      213: 4620112937966008395
+    second: PC Computer - Jardinains - Bricks_62
+  - first:
+      213: 7330036955168349780
+    second: PC Computer - Jardinains - Bricks_63
+  - first:
+      213: -513455985282069440
+    second: PC Computer - Jardinains - Bricks_64
+  - first:
+      213: -3756188201946958724
+    second: PC Computer - Jardinains - Bricks_65
+  - first:
+      213: 4724762450459542712
+    second: PC Computer - Jardinains - Bricks_66
+  - first:
+      213: -1465273094794703374
+    second: PC Computer - Jardinains - Bricks_67
+  - first:
+      213: -6656007484371041668
+    second: PC Computer - Jardinains - Bricks_68
+  - first:
+      213: 8352953227043899376
+    second: PC Computer - Jardinains - Bricks_69
+  - first:
+      213: 7189904142591388887
+    second: PC Computer - Jardinains - Bricks_70
+  - first:
+      213: 3279777408869908305
+    second: PC Computer - Jardinains - Bricks_71
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 89.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e62ccd4c504bbe0800000000000000
+      internalID: -1462537635913109888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 89.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3337df635282a50800000000000000
+      internalID: 6496483380592587767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 89.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3644fd5eaaf55a340800000000000000
+      internalID: 4874407359304123491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 89.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549c4c2cd37c5ec70800000000000000
+      internalID: 8999818498444413253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 77
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a61a2737d7b0a30800000000000000
+      internalID: 4182574613741529662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 77.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d046a4253a160690800000000000000
+      internalID: -7636387302609633065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 77.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb69e65ea1c0980800000000000000
+      internalID: -8571446418087691117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 77.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af1b9a5e7563820800000000000000
+      internalID: 2897600054165633652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 77.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd02f4249711d10800000000000000
+      internalID: 2094588627406347106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571c254d9d2d5980800000000000000
+      internalID: -8548626364185700513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb7ac92a80cc90a0800000000000000
+      internalID: -6873407231635063809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d3e92be168c9c0800000000000000
+      internalID: -3906765014095899250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 65.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c2f46c26a18100800000000000000
+      internalID: 108550575636007073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 65.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83fe324b32c9cc0800000000000000
+      internalID: -3703045537001424662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b723ec8a6ce7ba0800000000000000
+      internalID: -6089211217842111670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d72c57695c3e70800000000000000
+      internalID: 9096243647844177375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 53.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a5dad3531442130800000000000000
+      internalID: 3541026903943895577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 53.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eaf618314f87f00800000000000000
+      internalID: 1114909272387333770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 53.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5481bb6ca64c9a620800000000000000
+      internalID: 2785973807385090117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 53.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3513648397d3f12e0800000000000000
+      internalID: -2152934506015346349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 53.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde23c6c868c3e90800000000000000
+      internalID: -7044607779445477957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 53.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9af484d9e08a0e0800000000000000
+      internalID: -2258539144440469032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91e81303a394190800000000000000
+      internalID: -7977781286245885451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3beb5aaeed383ed0800000000000000
+      internalID: -2434127503324091588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa041941a4e67e20800000000000000
+      internalID: 3348114754363460343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baefe2c8459f6790800000000000000
+      internalID: -7534639511826863440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bcbe466fc9e370800000000000000
+      internalID: 8352435022249898914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582429140809a5a80800000000000000
+      internalID: -8477304468041219451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c40354b7438bd30800000000000000
+      internalID: 4447362336074779741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4640c986e620b2210800000000000000
+      internalID: 1309142789905974372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 41.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622bb1cbe00e1150800000000000000
+      internalID: 5845110378941063780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b2139d74b6a990800000000000000
+      internalID: -7375008888341219554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9989ca62d6d4190800000000000000
+      internalID: -7976599352131413586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44330d495fa6cb4d0800000000000000
+      internalID: -3117499239051021500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383ce15b37b62660800000000000000
+      internalID: 7360772106389043263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d074633979af99b70800000000000000
+      internalID: 8906425267018680077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d28dea4d49c1430800000000000000
+      internalID: 3755039830507531609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5cd39d4b365030800000000000000
+      internalID: 3483036566196870828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993439b8ea1608130800000000000000
+      internalID: 3566958307171320729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 29.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f242ef91a4ebe26f0800000000000000
+      internalID: -707418865977646033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd97674909f204e0800000000000000
+      internalID: -2016775864860566060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243c49f737487bb50800000000000000
+      internalID: 6608896609786053442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98e9827f495fbf0800000000000000
+      internalID: -291162811636217376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a2cfcde0f54370800000000000000
+      internalID: 8306309991938302099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d0f57eb5366a60800000000000000
+      internalID: 7666874507783624946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7cda2887ab02520800000000000000
+      internalID: 2675343205409343455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d26c32ab324b4b0800000000000000
+      internalID: -5425672368703525621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b29ddaa0374760800000000000000
+      internalID: 7441970419672986038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4876a91d30fd1040800000000000000
+      internalID: 4620112937966008395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9b4746c589b560800000000000000
+      internalID: 7330036955168349780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cc6757086dfd8f0800000000000000
+      internalID: -513455985282069440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7430714bb65fdbc0800000000000000
+      internalID: -3756188201946958724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_66
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ceb37a6ab19140800000000000000
+      internalID: 4724762450459542712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd03d532ed4aabe0800000000000000
+      internalID: -1465273094794703374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7209bf357c11a3a0800000000000000
+      internalID: -6656007484371041668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7876344b6abe370800000000000000
+      internalID: 8352953227043899376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_70
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce44459bba7c360800000000000000
+      internalID: 7189904142591388887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Jardinains - Bricks_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5.25
+        width: 26.222221
+        height: 12.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fba062d2c148d20800000000000000
+      internalID: 3279777408869908305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Jardinains - Bricks_7: 4874407359304123491
+      PC Computer - Jardinains - Bricks_15: -8571446418087691117
+      PC Computer - Jardinains - Bricks_32: 2785973807385090117
+      PC Computer - Jardinains - Bricks_16: 2897600054165633652
+      PC Computer - Jardinains - Bricks_8: 8999818498444413253
+      PC Computer - Jardinains - Bricks_44: 5845110378941063780
+      PC Computer - Jardinains - Bricks_60: -5425672368703525621
+      PC Computer - Jardinains - Bricks_51: 3483036566196870828
+      PC Computer - Jardinains - Bricks_57: 8306309991938302099
+      PC Computer - Jardinains - Bricks_45: -7375008888341219554
+      PC Computer - Jardinains - Bricks_47: -3117499239051021500
+      PC Computer - Jardinains - Bricks_38: 3348114754363460343
+      PC Computer - Jardinains - Bricks_27: 9096243647844177375
+      PC Computer - Jardinains - Bricks_66: 4724762450459542712
+      PC Computer - Jardinains - Bricks_22: -6873407231635063809
+      PC Computer - Jardinains - Bricks_33: -2152934506015346349
+      PC Computer - Jardinains - Bricks_11: 4182574613741529662
+      PC Computer - Jardinains - Bricks_55: 6608896609786053442
+      PC Computer - Jardinains - Bricks_14: -7636387302609633065
+      PC Computer - Jardinains - Bricks_71: 3279777408869908305
+      PC Computer - Jardinains - Bricks_46: -7976599352131413586
+      PC Computer - Jardinains - Bricks_70: 7189904142591388887
+      PC Computer - Jardinains - Bricks_49: 8906425267018680077
+      PC Computer - Jardinains - Bricks_37: -2434127503324091588
+      PC Computer - Jardinains - Bricks_40: 8352435022249898914
+      PC Computer - Jardinains - Bricks_43: 1309142789905974372
+      PC Computer - Jardinains - Bricks_62: 4620112937966008395
+      PC Computer - Jardinains - Bricks_63: 7330036955168349780
+      PC Computer - Jardinains - Bricks_41: -8477304468041219451
+      PC Computer - Jardinains - Bricks_58: 7666874507783624946
+      PC Computer - Jardinains - Bricks_36: -7977781286245885451
+      PC Computer - Jardinains - Bricks_31: 1114909272387333770
+      PC Computer - Jardinains - Bricks_18: -8548626364185700513
+      PC Computer - Jardinains - Bricks_42: 4447362336074779741
+      PC Computer - Jardinains - Bricks_53: -707418865977646033
+      PC Computer - Jardinains - Bricks_68: -6656007484371041668
+      PC Computer - Jardinains - Bricks_39: -7534639511826863440
+      PC Computer - Jardinains - Bricks_48: 7360772106389043263
+      PC Computer - Jardinains - Bricks_50: 3755039830507531609
+      PC Computer - Jardinains - Bricks_23: -3906765014095899250
+      PC Computer - Jardinains - Bricks_35: -2258539144440469032
+      PC Computer - Jardinains - Bricks_17: 2094588627406347106
+      PC Computer - Jardinains - Bricks_52: 3566958307171320729
+      PC Computer - Jardinains - Bricks_69: 8352953227043899376
+      PC Computer - Jardinains - Bricks_65: -3756188201946958724
+      PC Computer - Jardinains - Bricks_61: 7441970419672986038
+      PC Computer - Jardinains - Bricks_24: 108550575636007073
+      PC Computer - Jardinains - Bricks_59: 2675343205409343455
+      PC Computer - Jardinains - Bricks_26: -6089211217842111670
+      PC Computer - Jardinains - Bricks_28: 3541026903943895577
+      PC Computer - Jardinains - Bricks_6: 6496483380592587767
+      PC Computer - Jardinains - Bricks_25: -3703045537001424662
+      PC Computer - Jardinains - Bricks_54: -2016775864860566060
+      PC Computer - Jardinains - Bricks_34: -7044607779445477957
+      PC Computer - Jardinains - Bricks_67: -1465273094794703374
+      PC Computer - Jardinains - Bricks_5: -1462537635913109888
+      PC Computer - Jardinains - Bricks_64: -513455985282069440
+      PC Computer - Jardinains - Bricks_56: -291162811636217376
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
